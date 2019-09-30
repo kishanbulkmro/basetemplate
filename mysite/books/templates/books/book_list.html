@@ -1,0 +1,36 @@
+
+{% extends 'books/base.html' %}
+{% block body %}
+<html>
+<head>
+<body>
+
+<h1>Books</h1>
+<table border="2">
+    <thead>
+    <tr>
+        <th>PK</th>
+        <th>Name</th>
+        <th>Pages</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for book in object_list %}
+    <tr>
+        <td>{{ book.pk }}</td>
+        <td>{{ book.name }}</td>
+        <td>{{ book.pages }}</td>
+    </tr>
+    {% endfor %}
+    </tbody>
+</table>
+</body>
+</html>
+{% endblock %}
+
+
+
+
+
+
+
