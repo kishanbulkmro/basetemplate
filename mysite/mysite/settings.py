@@ -52,7 +52,6 @@ INSTALLED_APPS = [
     'timed_auth_token',
     'rest_framework',
     'books.apps.BooksConfig',
-    'csvread.apps.CsvreadConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

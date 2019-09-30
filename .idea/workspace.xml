@@ -2,16 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4be8c954-123a-4f9d-af0a-2f22017f2175" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AgileFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AgileFlow/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AgileFlow/agileflow/main/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AgileFlow/agileflow/main/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AgileFlow/agileflow/main/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../AgileFlow/agileflow/main/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/books/controller/restview.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/books/controller/restview.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/books/templates/books/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/books/templates/books/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/books/templates/books/book_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/books/templates/books/book_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/books/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/books/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/templates/csvgetter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/templates/profile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/csvread/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysite/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,28 +37,28 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QgLIAnwtel46iK9Uogpaiv3byj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RIL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mysite/books" />
-      <recent name="$PROJECT_DIR$/mysite/books/views" />
-      <recent name="$PROJECT_DIR$/mysite/books/images" />
-      <recent name="$PROJECT_DIR$/mysite/books/static/books" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mysite/books/serializer" />
       <recent name="$PROJECT_DIR$/mysite/books/services/books" />
       <recent name="$PROJECT_DIR$/mysite/books/templates" />
       <recent name="$PROJECT_DIR$/mysite/books" />
       <recent name="$PROJECT_DIR$/mysite/csvread/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/books" />
+      <recent name="$PROJECT_DIR$/mysite/books/views" />
+      <recent name="$PROJECT_DIR$/mysite/books/images" />
+      <recent name="$PROJECT_DIR$/mysite/books/static/books" />
     </key>
   </component>
   <component name="RunDashboard">

@@ -17,8 +17,7 @@ from django.contrib import admin
 from django.urls import path , include
 
 urlpatterns = [
-    path('books/', include('books.urls')),
-    path('', include('csvread.urls')),
+    path('', include('books.urls')),
     path('admin/', admin.site.urls),
     path('auth/', include('timed_auth_token.urls')),
 ]
